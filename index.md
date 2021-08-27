@@ -1,4 +1,4 @@
-# OS212 Repository
+## OS212 Repository
 
 Hello , My name is **Firlandi Althaf Rizqi Ansyari**.
 This is my Operating Systems 2021-2 Repository.
