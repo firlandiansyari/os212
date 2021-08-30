@@ -1,3 +1,8 @@
-# REV06 Wed 07 Jul 2021 20:15:07 WIB
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
 # ZCZC WEEK# MINUTES LogCode Description
+
+ZCZC W00 15 L11 Assignment #01
+ZCZC W00 15 L12 Assignment #02
+ZCZC W00 25 L13 Assignment #03
+ZCZC W00 20 L14 Assignment #04
+ZCZC W00 45 L14 Assignment #05
