@@ -9,3 +9,6 @@ permalink: /LINKS/
 - [C Language Cheat Sheet](https://developerinsider.co/c-programming-language-cheat-sheet/) - A neat C language cheat sheet for syntax, methods, etc.
 - [Disk Commands for Linux](https://www.binarytides.com/linux-command-check-disk-partitions/) - Some neat disk commands to try on linux. Contains some useful commands if you're dealing with disk stuff.
 - [Essential Linux Commands](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/) - Contains essential commands if you're working with linux.
+- [Some other FUN Linux commands](https://www.lifewire.com/linux-commands-for-navigating-file-system-4027320) - Contains fun and exciting commands for you to try while you're board :)
+- [Linux Starter Course](https://training.linuxfoundation.org/training/introduction-to-linux/) - A free and helpful course for linux beginners
+- [Linux Scripts](https://docs.csc.fi/support/tutorials/env-guide/linux-bash-scripts/) - Some explanation about scripts in linux and how to use them
