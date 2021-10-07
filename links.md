@@ -12,3 +12,6 @@ permalink: /LINKS/
 - [Some other FUN Linux commands](https://www.lifewire.com/linux-commands-for-navigating-file-system-4027320) - Contains fun and exciting commands for you to try while you're board :)
 - [Linux Starter Course](https://training.linuxfoundation.org/training/introduction-to-linux/) - A free and helpful course for linux beginners
 - [Linux Scripts](https://docs.csc.fi/support/tutorials/env-guide/linux-bash-scripts/) - Some explanation about scripts in linux and how to use them
+- [Virtual Memory](https://en.wikipedia.org/wiki/Virtual_memory) - Explanation about what is virtual memory and other properties of virtual memory
+- [Caching](https://www.tutorialspoint.com/What-is-caching) - A short explanation about caching
+- [Memory Allocation](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) - some more fun information about memory allocation
