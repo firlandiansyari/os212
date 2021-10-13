@@ -15,3 +15,6 @@ permalink: /LINKS/
 - [Virtual Memory](https://en.wikipedia.org/wiki/Virtual_memory) - Explanation about what is virtual memory and other properties of virtual memory
 - [Caching](https://www.tutorialspoint.com/What-is-caching) - A short explanation about caching
 - [Memory Allocation](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) - some more fun information about memory allocation
+- [Example of scripts](https://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/internal.html) - some scripts to try for simple tasks
+- [Bash Scripts](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php) - some information about bashing scripts and what do they do
+- [How to create scripts](https://www.guru99.com/introduction-to-shell-scripting.html) - a tutorial on how to create a scripts
