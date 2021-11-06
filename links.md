@@ -18,3 +18,6 @@ permalink: /LINKS/
 - [Example of scripts](https://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/internal.html) - some scripts to try for simple tasks
 - [Bash Scripts](https://ryanstutorials.net/bash-scripting-tutorial/bash-script.php) - some information about bashing scripts and what do they do
 - [How to create scripts](https://www.guru99.com/introduction-to-shell-scripting.html) - a tutorial on how to create a scripts
+- [What is Synchronization](https://en.wikipedia.org/wiki/Synchronization_(computer_science)) - explanation about synchronization in computer science
+- [Peterson's Algorithm](https://en.wikipedia.org/wiki/Peterson%27s_algorithm) - explanation about Petereson's Algorithm
+- [What is Semaphore](https://en.wikipedia.org/wiki/Semaphore_(programming)#:~:text=In%20computer%20science%2C%20a%20semaphore,as%20a%20multitasking%20operating%20system.&text=That%20system%20eventually%20became%20known%20as%20THE%20multiprogramming%20system.) - explanation about semaphore programming

@@ -59,3 +59,5 @@ ZCZC W06 20 L16 Assignment #06
 ZCZC W06 15 L17 Assignment #07
 ZCZC W06 20 L18 Assignment #08
 ZCZC W06 10 L19 Assignment #09
+ZCZC W07 240 L09 Assignments in General
+ZCZC W07 60 L32 YouTube: study, etc.
