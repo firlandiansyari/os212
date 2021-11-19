@@ -24,3 +24,4 @@ permalink: /LINKS/
 - [MultiProcessor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html#:~:text=Multiple%20processor%20scheduling%20or%20multiprocessor,it%20makes%20scheduling%20more%20complex.) - explanation about MultiProcessor scheduling
 - [Linux from scratch](https://www.linuxfromscratch.org/lfs/view/11.0/) - explanation about how to create linux from scratch
 - [CPU Burst](http://www2.cs.uregina.ca/~hamilton/courses/330/notes/scheduling/scheduling.html#:~:text=CPU%20burst%3A%20the%20amount%20of,%2FO%20bound%20(i.e.%20vi)) - explanation about cpu burst and types of cpu bursts
+- [Linux youtube tutorial](https://www.youtube.com/watch?v=IXA0GNTLf_Q&ab_channel=WriteyourownOperatingSystem) - How to create linux
